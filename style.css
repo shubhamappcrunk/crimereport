@@ -1,0 +1,72 @@
+
+p.top-content {
+    margin: auto;
+    margin-left: 36%;
+    color: green;
+    font-family: cursive;
+    font-size: 12px;
+}
+
+  p.top-content-second {
+    margin: 0 auto;
+    margin-left: 49%;
+    color: red;
+    font-size: 24px;
+    font-family: bold;
+    
+}
+span.top-content-line{
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-underline-offset: 13px;
+    text-decoration: solid underline  4px;
+}
+span.centerlinestart {
+    text-decoration: underline;
+    text-decoration-color: green;
+   
+}
+.mycol3.mt-5 {
+    margin: 0 auto;
+    text-align: center;
+}
+.mycol4.mt-5 {
+    margin: 0 auto;
+    
+}
+.blackbox {
+    background-image: url(images/Black_box.png);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+.mdiv {
+    margin-top: 9%;
+}
+table.table.mytable {
+    width: 50%;
+    
+    border: none;
+    margin: 0 auto;
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 22%;
+   
+}
+.myblackbox.m-auto.blackbox.h-100 {
+    position: relative;
+}
+th.myth {
+    color: white;
+    border: none;
+    font-size: 26px;
+}
+td.mytd {
+    color: white;
+    border: none;
+    font-size: 26px;
+}
+
+hr.new5 {
+    border: 5px solid green;
+    margin-bottom: 5%;
+  }
